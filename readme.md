@@ -10,7 +10,7 @@
 [rn-textinput]: https://facebook.github.io/react-native/docs/textinput.html#props
 [md-textfield]: https://material.io/guidelines/components/text-fields.html
 
-# react-native-material-textfield
+# react-native-material-textfield fork
 
 [![npm][npm-badge]][npm-url]
 [![license][license-badge]][license-url]
